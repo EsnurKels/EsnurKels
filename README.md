@@ -7,9 +7,9 @@ _Jr. Frontend Developer_
 
 ### Skills
 
-<span style="background-color: #e34c26; padding: 5 10; font-weight: 500; margin-right: 10px; display: inline-block; border-radius: .5em;">Html</span>
-<span style="background-color: 264de4; padding: 5 10; font-weight: 500; margin-right: 10px; display: inline-block; border-radius: .5em;">Css</span>
-<span style="background-color: #cc6699; padding: 5 10; font-weight: 500; margin-right: 15px; display: inline-block; border-radius: .5em;">Sass</span>
-<span style="background-color: #602C50; padding: 5 10; font-weight: 500; margin-right: 15px; display: inline-block; border-radius: .5em;">Bootstrap</span>
-<span style="background-color: #f0db4f; color: #000; padding: 5 10; font-weight: 500; margin-right: 15px; display: inline-block; border-radius: .5em;">Javascript</span>
-<span style="background-color: #61DBFB; color: #000; padding: 5 10; font-weight: 500; margin-right: 15px; display: inline-block; border-radius: .5em;">React</span>
+<span style="background-color: #e34c26; padding: 5 10; font-weight: 500; margin-right: 10px; border-radius: .5em;">Html</span>
+<span style="background-color: 264de4; padding: 5 10; font-weight: 500; margin-right: 10px; border-radius: .5em;">Css</span>
+<span style="background-color: #cc6699; padding: 5 10; font-weight: 500; margin-right: 15px; border-radius: .5em;">Sass</span>
+<span style="background-color: #602C50; padding: 5 10; font-weight: 500; margin-right: 15px; border-radius: .5em;">Bootstrap</span>
+<span style="background-color: #f0db4f; color: #000; padding: 5 10; font-weight: 500; margin-right: 15px; border-radius: .5em;">Javascript</span>
+<span style="background-color: #61DBFB; color: #000; padding: 5 10; font-weight: 500; margin-right: 15px; border-radius: .5em;">React</span>
